@@ -1,0 +1,32 @@
+.name {
+    text-align: center;
+    font-family: Impact, sans-serif;
+    font-style: italic;
+    font-size: 50px;
+    color: rgb(161,126,184);
+    }
+.text {
+    padding: 10px;
+    border: 3px rgb(187, 114, 114);
+    border-style:dashed;
+    background-color: rgb(255, 234, 234);
+    }
+.img-fluid {
+    width: 25%;
+    height: auto; }
+.student {
+    padding: 10px;
+    border: 3px rgb(44, 58, 47);
+    border-style:dashed;
+    background-color: rgb(225,234,234);
+    font-style: italic;
+    text-align: right;
+    }
+.caption {
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: .2em;
+    font-size: 12px;
+    padding: 7px 10px;
+    color: darkgreen;
+    display: inline-block; }
